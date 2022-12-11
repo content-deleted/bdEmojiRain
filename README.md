@@ -4,6 +4,9 @@
 <hr/>
 
 <span>To install copy the plugin.js folder into :</span>
+
 <span>Windows -> `%appdata%\BetterDiscord\plugins`</span>
+
 <span>OSX -> `~/Library/Application Support/BetterDiscord/plugins`</span>
+
 <span>Linux -> `~/.config/BetterDiscord/plugins/`</span>
