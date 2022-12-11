@@ -4,7 +4,7 @@
 > Adds an emoji rain effect similar to the chat client QQ when certain phrases appear in chat.
 <hr/>
 
-<span>To install copy the plugin.js folder into :</span>
+<span>To install copy the plugin.js file into your better discord plugins folder here:</span>
 
 <span>Windows -> `%appdata%\BetterDiscord\plugins`</span>
 
