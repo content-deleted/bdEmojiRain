@@ -1,5 +1,6 @@
 # Emoji Rain
 > A plugin for <a href="https://betterdiscord.app/">Better Discord</a>
+> 
 > Adds an emoji rain effect similar to the chat client QQ when certain phrases appear in chat.
 <hr/>
 
