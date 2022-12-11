@@ -4,7 +4,7 @@
  * @description Adds an emoji rain effect similar to the chat client QQ when certain phrases appear in chat
  * @version 0.0.2
  * @source https://github.com/content-deleted/bdEmojiRain
- * @updateUrl https://raw.githubusercontent.com/content-deleted/bdEmojiRain
+ * @updateUrl https://raw.githubusercontent.com/content-deleted/bdEmojiRain/main/QQEmojiRain.plugin.js
  */
 
  module.exports = class QQEmojiRain {
