@@ -3,11 +3,11 @@
  * @author contentdeleted
  * @description Adds an emoji rain effect similar to the chat client QQ when certain phrases appear in chat
  * @version 0.0.1
- * @source https://github.com/content_deleted/
- * @updateUrl https://raw.githubusercontent.com/content_deleted/
+ * @source https://github.com/content-deleted/bdEmojiRain
+ * @updateUrl https://raw.githubusercontent.com/content-deleted/bdEmojiRain
  */
 
-module.exports = class QQEmojiRain {
+ module.exports = class QQEmojiRain {
     'use strict'
     intitalized = false;
 
